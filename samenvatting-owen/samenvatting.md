@@ -707,7 +707,7 @@ taken ...
 * ￼![image-3.png](images/image-3.png)
 * Situatie 1 is beter: hetzelfde verwachte winstniveau, maar met minder kans op verlies
 
-# 4.2 Soorten investeringen
+### 4.2 Soorten investeringen
 
 * Meest courante indeling: onderscheid tussen:
     * Vervangingsinvesteringen
@@ -737,8 +737,11 @@ taken ...
     * VB: R&D, investeren in personeel,...
 
 ### 4.3 Investeringsproces - Determinanten
+
 Wat volgt zijn enkele belangrijke factoren om rekening mee te houden bij een investering.
+
 #### 4.3.1 Investeringsbedrag
+
 * = De uitgaven bij de aankoop/bouw van een materieel vast actief &
     evt. bijkomende immateriële kosten zoals de opleiding van personeel
     * Maar: ook rekening houden met de toename van het behoefte aan netto
