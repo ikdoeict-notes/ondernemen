@@ -3,20 +3,20 @@
 1.	Wat verstaan we onder beleid of management van een organisatie?
 2.	Wanneer bestaat er een onderneming?
 3.	Hoe wordt de waarde van de onderneming gemaximaliseerd?
-	4.	Wat is de meest gebruikte opdeling voor ondernemingen?
-	5.	Dé definitie van de KMO bestaat niet, in België zijn er al 51 verschillende definities. Deze definities gebruiken vaak drie elementen die van belang zijn. Welke zijn die in de wet van 17 juli 1975, art. 12?
-	6.	Wat is de definitie van een KMO in het sociaal recht? 
-	7.	Wat is de juridische indeling van ondernemingen? 
-	8.	Wat zijn de voor- en nadelen van een kleine onderneming?
-	9.	Geef de 4 functies in een onderneming.
+4.	Wat is de meest gebruikte opdeling voor ondernemingen?
+5.	Dé definitie van de KMO bestaat niet, in België zijn er al 51 verschillende definities. Deze definities gebruiken vaak drie elementen die van belang zijn. Welke zijn die in de wet van 17 juli 1975, art. 12?
+6.	Wat is de definitie van een KMO in het sociaal recht? 
+7.	Wat is de juridische indeling van ondernemingen? 
+8.	Wat zijn de voor- en nadelen van een kleine onderneming?
+9.	Geef de 4 functies in een onderneming.
 10. Door welke drie elementen wordt het industriële risico beïnvloed?
-	11.	Bespreek de verschillende fasen van de toekomst van het product.
-	12.	Welke factoren bepalen de kostprijs van een product?
-	13.	Wat zijn de vier hoofdpunten van de verkoop functie en het commerciële risico. Bespreek
-	14.	Geeft de twee componenten van het management en het menselijk risico.
-	15.	In welke twee categorieën zijn de productiemiddelen onderverdeeld?
-	16.	Op wie kan een ondernemer beroep doen om hem te voorzien van de nodige middelen?
-	17.	Vergelijk een eenmanszaak met een vennootschap. Wat zijn de verschillen in:
+11.	Bespreek de verschillende fasen van de toekomst van het product.
+12.	Welke factoren bepalen de kostprijs van een product?
+13.	Wat zijn de vier hoofdpunten van de verkoop functie en het commerciële risico. Bespreek
+14.	Geeft de twee componenten van het management en het menselijk risico.
+15.	In welke twee categorieën zijn de productiemiddelen onderverdeeld?
+16.	Op wie kan een ondernemer beroep doen om hem te voorzien van de nodige middelen?
+17.	Vergelijk een eenmanszaak met een vennootschap. Wat zijn de verschillen in:
 	-	Oprichtingsvoorwaarden
 	-	Rechtspersoonlijkheid
 	-	Eigendom
@@ -35,7 +35,7 @@
 	-	Bestuur
 	-	Boekhouding
 20.	Welke administratieve formaliteiten moeten vervuld worden bij de oprichting van een eenmanszaak en bijkomend voor een vennootschap? Indien relevant, bespreek.
-	21.	Uit welke delen bestaat een ondernemingsplan? Welke van deze is wettelijk verplicht?
+21.	Uit welke delen bestaat een ondernemingsplan? Welke van deze is wettelijk verplicht?
 22. 	Wat is een financieel plan?
 23. 	Waaruit bestaan een financieel plan?
 24. 	Wat is management?
