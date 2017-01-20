@@ -1,4 +1,4 @@
-# Examenvragen - Ondernemen 2K17
+# Examenvragen - Ondernemen 2017
 
 1.	Wat verstaan we onder beleid of management van een organisatie?
 2.	Wanneer bestaat er een onderneming?
