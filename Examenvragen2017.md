@@ -81,7 +81,11 @@ Seppe Snoeck
 1. Wanneer bestaat er een onderneming?
     * ?
 1. Hoe wordt de waarde van de onderneming gemaximaliseerd?
-    * ?
+    Het doel van de ondernemer bestaat erin de waarde van de onderneming te maximaliseren door middel van een 
+	-opbrengst voor diegenen die kapitaal ingebracht hebben (economische rol), 
+ 	-ten voordele van de werknemers (interne sociale rol), 
+ 	-ten voordele van de gemeenschap (externe sociale rol)
+
 1. Wat is de meest gebruikte opdeling voor ondernemingen?
     * Kleine & Middelgrote Ondernemingen (KMO's)
     * Grote ondernemingen
@@ -111,7 +115,9 @@ Seppe Snoeck
     * Management
     * Financieel
 1. Door welke drie elementen wordt het industriële risico beïnvloed?
-    * ?
+    * Het product
+    * De productiemiddelen
+    * Het productieproces
 1. Bespreek de verschillende fasen van de toekomst van het product.
     * Kostenfase: onderzoek van behoeften, ontwikkeling, experimenteren
     * Levenscyclus: lancering, groei, maturiteit, verval
