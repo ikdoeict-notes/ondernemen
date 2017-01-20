@@ -492,7 +492,8 @@ Ideaal: formele leider die ook een informele leider is
     * Wordt pas uitgevoerd als de leiding hiertoe opdracht heeft gegeven
      
 #### 2.5.4 Fasen van een plan
-￼![image-2.png](images/image-2.png)
+
+![image-2.png](images/image-2.png)
  
 #### 2.5.5 Bedrijfsbeleid & nood aan planning
 * Confrontatie met complexere acties/situaties in het bedrijfsleven
