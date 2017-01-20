@@ -1,6 +1,10 @@
 # Ondernemen
+
 ## H1: De onderneming
+
+
 ### 1.1 Inleiding
+
 Er bestaat een onderneming zodra een persoon/groep personen aanvaarden
 een risico te nemen in een economisch project, en dit met het doel
 zoveel mogelijk winst te maken.
@@ -35,7 +39,9 @@ KMO
     * Minder mogelijkheden op commercieel vlak
  
 ### 1.4 Functies in een onderneming
+
 #### 1.4.1 Product/Productie
+
 * Levenscyclus
     * Kostenfase
         * Onderzoek van behoeften
@@ -153,7 +159,9 @@ nodige middelen:
 * Staat
 
 ### 1.5 Een onderneming starten
+
 #### 1.5.2 Welke ondernemingsvorm?
+
 \[Zie tabel p17-18\]
  
 * Eenmanszaak:
@@ -256,14 +264,18 @@ Dus: het financieel plan is een verantwoording van de grootte van het stichtings
 * Inbreng in natura: bedrijfsrivistor aanstellen om een volledige
     beschrijving van de nature-inbreng op te stellen
     * Verslag wordt bij de notariële akte gevoegd
+
 ### 1.5.4.4 Liquiditeitsprognose
+
 * Overzicht van het maandelijkse saldo van de liquide middelen
 * Hierdoor weet men in welke mate de onderneming over geld zal moeten
     beschikken
     * Op basis hiervan kan het financieringsplan aangepast worden
  
 ## H2: Algemeen management
+
 #### 2.1 Management en haar dimensies
+
 Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden van een groep mensen zodanig te beïnvloeden dat op efficiënte wijze het gemeenschappelijke doel wordt bereikt”
 
 #### 2.1.1 Beheer, strategie en toevallig gedrag
@@ -278,7 +290,9 @@ Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden v
     * Toevallig gedrag: zich emotioneel, oppervlakkig, weinig
         rationeel,... gedragen
         * Toevallig gedrag kan ook leiden tot beheer/routinesituaties
+
 #### 2.1.2 Beleid en organisatie
+
 * Beleid: het geheel van de “bewuste” gedraingen/activiteiten van het
     management
     * Steunen op reflectie & voorschriften -> strategie & beheer zijn
@@ -374,7 +388,9 @@ Ideaal: formele leider die ook een informele leider is
             * Voorwaarde: moeten weten hoe goed ze het doen
 
 #### 2.4.3 Belangrijke aspecten mbt leidinggeven
+
 ##### 2.4.3.1 Spanwijdte van de leiding
+
 * Leider moet:
     * Deeltaken aflijnen
     * Ondergeschikten motiveren & controleren
@@ -439,11 +455,15 @@ Ideaal: formele leider die ook een informele leider is
 ￼![image-1.png](images/image-1.png)
  
 # 2.5 Planning
+
 #### 2.5.1 Het begrip planning
+
 * Heeft betrekking op het ordenen van toekomstige activiteiten
 * De activiteiten worden op elkaar afgestemd om de doelstellingen te
     bereiden
+
 #### 2.5.2 Soorten planning
+
 * Lange termijnplanning: 5-15 jaar
     * = Strategische planning
     * Doelstellingen van de onderneming bepalen
@@ -491,6 +511,7 @@ Ideaal: formele leider die ook een informele leider is
  
 # 2.6 Budgetteren
 Een budget is een plan op korte termijn dat in cijfers wordt uitgedrukt
+
 #### 2.6.1 Definitie
 * Budgettering is een vorm van bedrijfsbeleid en
     ondernemingsorganisatie...
@@ -636,7 +657,9 @@ taken ...
         * Leidt tot betere besluitvorming
 
 ## H3: Financieel beleid: financiëring van de onderneming
+
 ### 3.1 Inleiding
+
 * Belangrijk: inkomen realiseren
     * Productiefactoren (arbeid, kapitaalgoederen, grondstoffen,...)
         nodig, aan te schaffen wanneer de onderneming over financiële
@@ -648,7 +671,9 @@ taken ...
         * Dus: iedereen beschikt over financiële verantwoordelijkheid
 
 ### 3.2 Financiële structuur van de onderneming
+
 #### 3.2.1 Inleidende begrippen
+
 * Jaarrekening: hierin staan de financiële structuur & de financiële
     cijfers van een onderneming
     * Omvat: balans, resultatenrekening, toelichting
@@ -663,7 +688,9 @@ taken ...
     * **Opbrengsten - kosten = resultaat**
      
 ## H4: Investeringsbeslissingen
+
 ### 4.1 Belang van de investeringspolitiek
+
 * Investering = elke beslissing waarbij op een bepaald moment uitgaven
     dienen gemaakt te worden in de hoop later ontvangsten te zullen
     verkrijgen
@@ -679,7 +706,9 @@ taken ...
         * Proberen om de variabiliteit van de winst zo laag mogelijk te houden
 * ￼![image-3.png](images/image-3.png)
 * Situatie 1 is beter: hetzelfde verwachte winstniveau, maar met minder kans op verlies
+
 # 4.2 Soorten investeringen
+
 * Meest courante indeling: onderscheid tussen:
     * Vervangingsinvesteringen
     * Uitbreidingsinvesteringen
