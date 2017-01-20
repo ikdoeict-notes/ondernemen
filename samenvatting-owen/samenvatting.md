@@ -10,7 +10,7 @@ een risico te nemen in een economisch project, en dit met het doel
 zoveel mogelijk winst te maken.
 Het doel van een ondernemer is om de waarde van zijn onderneming te
 maximaliseren dmv een...
- 
+
 Opbrengst voor diegenen die kapitaal ingebracht hebben (economische
 rol), ten voordele van de werknemers (interne sociale rol) en de
 gemeenschap (externe sociale rol)
@@ -40,7 +40,7 @@ KMO
     * Beperkte financiële mogelijkheden
     * Duurdere prijs voor aankoop grondstoffen & goederen
     * Minder mogelijkheden op commercieel vlak
- 
+
 ### 1.4 Functies in een onderneming
 
 #### 1.4.1 Product/Productie
@@ -108,8 +108,8 @@ KMO
         * Nieuwe producten te ontwikkelen
         * Vertegenwoordigers op te leiden
         * Reclame & verkoopspromotie te voeren
-         
- 
+
+
 #### 1.4.3 Management
 
 * Directie
@@ -129,10 +129,10 @@ KMO
     * De bezoldigingssystemen & incentives
     * De interne communicatie
     * De arbeidsvoorwaarden & het sociaal klimaat
- 
+
 #### 1.4.4 Financieel
 Om te produceren heeft de onderneming productiemiddelen nodig
- 
+
 * Externe middelen
     * Grondstoffen, verbruiksgoederen, diensten, gehuurde apparatuur,...
     * Alles wat een onderneming van buiten uit gebruikt/verbruikt
@@ -152,7 +152,7 @@ ogenblik ter beschikking stellen aan de onderneming
 * Probleem: tijdsverschil inkomsten & uitgaven
 * Moeilijkheid: financiëring van de grote begininvesteringen & de
     onderhouds- en vervangingsinvesteringen
- 
+
 De ondernemer rekent op verschillende personen om bij te dragen in de
 nodige middelen:
 
@@ -167,15 +167,15 @@ nodige middelen:
 #### 1.5.2 Welke ondernemingsvorm?
 
 \[Zie tabel p17-18\]
- 
+
 * Eenmanszaak:
     * Geen te grote risico’s
     * Weinig kapitaal vereist
     * Kan gemakkelijk door 1 persoon geleid worden
 * Vennootschap: in alle andere gevallen
- 
+
 \[Zie tabel p19\]
- 
+
 #### 1.5.3 Administratieve verplichtingen bij de start van een onderneming
 Checklist administratieve verplichtingen voor een vennootschap (\* = Ook verplicht voor een eenmanszaak)
 
@@ -233,6 +233,7 @@ Checklist administratieve verplichtingen voor een vennootschap (\* = Ook verplic
             vergoeding aan derden
         * VB: Verzekering Burgerlijke Aansprakelijkheid bouw, Verzekering
             tienjarige aansprakelijkheid,...
+
 #### 1.5.4 Het financieel plan
 
 * Opstellen ondernemingsplan
@@ -256,13 +257,13 @@ Dus: het financieel plan is een verantwoording van de grootte van het stichtings
 * Overzicht van de benodigde activa
 * Belangrijk: waarde activa noteren, want: financiëring nodig
 * Dus: geeft een raming weer van de financieringsbehoeften voor de activa
- 
+
 ### 1.5.4.2 Exploitatiebegroting
 
 * Omvat een raming van de exploitatie in-/uitgaven (opbrengsten &
     kosten)
 * Hieruit blijkt of de onderneming leefbaar zal zijn
- 
+
 ### 1.5.4.3 Financieringsplan
 
 * Materiële vaste activa & realiseerbare vlottende activa: in nature
@@ -279,7 +280,7 @@ Dus: het financieel plan is een verantwoording van de grootte van het stichtings
 * Hierdoor weet men in welke mate de onderneming over geld zal moeten
     beschikken
     * Op basis hiervan kan het financieringsplan aangepast worden
- 
+
 ## H2: Algemeen management
 
 #### 2.1 Management en haar dimensies
@@ -308,7 +309,7 @@ Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden v
         hierin terug te vinden
 * Organisatie: de verhoudingen, processen & structuren die aan de
     activiteiten beantwoorden
- 
+
 #### 2.1.3 Management
 
 * Strategie = basis/kern voor het management
@@ -319,7 +320,7 @@ Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden v
 ￼![image1.png](images/image1.png)
 
 Relatie management - beheer - beleid - strategie
- 
+
 ### 2.2 Management en haar beleidsvorming
 
 * Elke onderneming wordt opgericht met een bepaald doel
@@ -336,7 +337,7 @@ Relatie management - beheer - beleid - strategie
 
 ### 2.3 Managementniveaus
 ￼![image.png](images/image.png)
- 
+
 ### 2.4 De leiding in een onderneming
 
 * Arbeidsverdeling: de verschillende mensen moeten samenwerken
@@ -359,7 +360,7 @@ Relatie management - beheer - beleid - strategie
     * Kan leiden tot conflictsituaties
 
 Ideaal: formele leider die ook een informele leider is
- 
+
 #### 2.4.2 Leiderschapsstijlen
 
 * Autoritair vs democratisch
@@ -415,7 +416,7 @@ Ideaal: formele leider die ook een informele leider is
         * moeilijkheid taken
         * ...
 * Spanwijdte leider is eerder beperkt
- 
+
 ##### 2.4.3.2 Delegatie van bevoegdheden
 = Het overdragen van een deel van de bevoegdheden door de leider
 2 belangrijke vragen:
@@ -423,7 +424,7 @@ Ideaal: formele leider die ook een informele leider is
 * Welke bevoegdheden delegeren?
     * Enkel zaken met een beperkte draagwijdte
 * Hoe & wanneer controleren?
- 
+
 ##### 2.4.3.3 Participatie
 
 * Bij democratische gezagsvoering: ondergeschikten participeren in
@@ -451,7 +452,7 @@ Ideaal: formele leider die ook een informele leider is
         (VB: verband grondstoffen - aantal afgewerkte fabricaten)
 * Keuze controletechniek afhankelijk van het soort controleobject & de
     aarde + grootte van de onderneming
- 
+
 ### 2.4.3.5 Arbeidsmotivatie
 
 * Materiële middelen
@@ -466,11 +467,11 @@ Ideaal: formele leider die ook een informele leider is
     * Integratie werknemers
     * Arbeidsvreugde
     * Managementstijl- en techniek
- 
+
 ### 2.4.3.6 Arbeidsproductiviteit
 = De productieoutput van een arbeider per werkuur
 ￼![image-1.png](images/image-1.png)
- 
+
 # 2.5 Planning
 
 #### 2.5.1 Het begrip planning
@@ -493,7 +494,7 @@ Ideaal: formele leider die ook een informele leider is
     * = Budgetteren
     * Alle activiteiten in de nabije toekomst
     * Vertaling van de middellange termijnplanning
-     
+
 #### 2.5.3 Eisen (van een plan)
 
 * Onderzoek naar de ontwikkelingen in de toekomst
@@ -512,7 +513,7 @@ Ideaal: formele leider die ook een informele leider is
 #### 2.5.4 Fasen van een plan
 
 ![image-2.png](images/image-2.png)
- 
+
 #### 2.5.5 Bedrijfsbeleid & nood aan planning
 
 * Confrontatie met complexere acties/situaties in het bedrijfsleven
@@ -528,7 +529,7 @@ Ideaal: formele leider die ook een informele leider is
 * Maar: klaarhouden om op andere producten over te schakelen wanneer
     de winstmogelijkheden verminderen
 * Conclusie: men moet meer plannen
- 
+
 # 2.6 Budgetteren
 Een budget is een plan op korte termijn dat in cijfers wordt uitgedrukt
 
@@ -545,7 +546,7 @@ Een budget is een plan op korte termijn dat in cijfers wordt uitgedrukt
 * Doel: op korte termijn proberen om via een gedetailleerde
     uitstippeling & becijferde voorstelling van de activiteiten, de
     lange termijndoelstellingen te bereiken
- 
+
 #### 2.6.2 Nut van budgetteren
 
 * Bij de planning
@@ -621,7 +622,7 @@ taken ...
     * Financiële functie
     * Administratieve functie
     * Personeelsfunctie
- 
+
 #### 2.8.2 Organisatiestelsels
 
 * Lijnorganisatie
@@ -711,7 +712,7 @@ taken ...
     gedurende een bepaalde periode
     * Vaak: periode = 1 jaar
     * **Opbrengsten - kosten = resultaat**
-     
+
 ## H4: Investeringsbeslissingen
 
 ### 4.1 Belang van de investeringspolitiek
@@ -789,7 +790,7 @@ Wat volgt zijn enkele belangrijke factoren om rekening mee te houden bij een inv
     * Totale investeringsbedrag = aankoopprijs machine + toename behoefte
         netto bedrijfskapitaal = 250.000 + (340.000 - 200.000) = € 390.000
 
-|                           | Zonder investering    | Na investering        |
+|                          | Zonder investering    | Na investering        |
 |---------------------------|-----------------------|-----------------------|
 | Omzet                     | 500.000               | 1.000.000             |
 | Voorraad                  | 50.000                | 90.000                |
@@ -826,13 +827,13 @@ Wat volgt zijn enkele belangrijke factoren om rekening mee te houden bij een inv
 * Dit rendement wordt opgesteld adhv de bedrijfscultuur & de
     onzekerheid van de toekomstige ontvangsten
 * Groter risico = groter vooropgesteld rendement
- 
+
 # 4.4 Investeringsanalyse: evaluatie van investeringsprojecten
- 
+
 Doel: evalueren of de verwachte toekomstige inkomsten voldoende zullen
 zijn om de uitgaven van vandaag te rechtvaardigen, rekening houdend met
 het ondernemingsrisico
- 
+
 #### 4.4.1 Methode van de gecumuleerde uitgaven & opbrengsten
 
 * Wat?
@@ -848,7 +849,7 @@ het ondernemingsrisico
         * Houdt geen rekening met de grootte van de begininvestering
         * Houdt geen rekening met de tijdwaarde van geld
     * Conclusie: te simplistisch & van te weinig waarde
- 
+
 #### 4.4.2 Terugverdientijdmethode
 
 * Wat?
@@ -871,7 +872,7 @@ het ondernemingsrisico
         * ￼![https://i.gyazo.com/4ec7966ec2846d90e42a13222f4e6cd4.png](https://i.gyazo.com/4ec7966ec2846d90e42a13222f4e6cd4.png)
         * Houdt geen rekening met de tijdwaarde van geld
             * Oplossing: waarde kasstromen actualiseren
- 
+
 #### 4.4.3 Methode van het investeringsrendement
 
 * Definitie - formule
@@ -885,7 +886,7 @@ het ondernemingsrisico
     * Nadelen:
         * Baseert zich op winsten na belastingen ipv beschikbare cash flows
         * Houdt geen rekening met de tijdwaarde van geld
-     
+
 #### 4.4.x De tijdswaarde van geld
 
 * De actuele/huidige waarde van € 1.000 volgend jaar is hoger dan die
@@ -934,7 +935,7 @@ het ondernemingsrisico
         maken
 * Voorbeeldoefening
 ![image6.jpg](images/image6.jpg)
- 
+
 #### 4.4.5 Methode van de interne rendementsvoet (Internal Rate of Return (IRR))
 
 * Bepaling & definitie
@@ -968,7 +969,7 @@ het ondernemingsrisico
             omtrent de toekomstige cash flows
         * Resultaat uitgedrukt in % -> geen concrete info over de omvang van
             het totale inkomen
-     
+
 ### 4.5 Slotbeschouwingen
 
 * Andere factoren van belang bij het nemen van
