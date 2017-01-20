@@ -490,7 +490,7 @@ Ideaal: formele leider die ook een informele leider is
     * Aanvaardbaar (voor opdrachtgevers- en uitvoerders)
     * Haalbaar
     * Wordt pas uitgevoerd als de leiding hiertoe opdracht heeft gegeven
-     
+
 #### 2.5.4 Fasen van een plan
 
 ![image-2.png](images/image-2.png)
@@ -527,6 +527,7 @@ Een budget is een plan op korte termijn dat in cijfers wordt uitgedrukt
     lange termijndoelstellingen te bereiken
  
 #### 2.6.2 Nut van budgetteren
+
 * Bij de planning
     * De verantwoordelijken krijgen inzicht in de evolutie van verkopen,
         aankopen, kosten,...
