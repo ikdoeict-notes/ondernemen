@@ -1,5 +1,9 @@
 # Examenvragen - Ondernemen 2017
 
+enkele mogelijke examenvragen
+
+Seppe Snoeck
+
 1.	Wat verstaan we onder beleid of management van een organisatie?
 2.	Wanneer bestaat er een onderneming?
 3.	Hoe wordt de waarde van de onderneming gemaximaliseerd?
