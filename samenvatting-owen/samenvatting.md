@@ -17,15 +17,18 @@ gemeenschap (externe sociale rol)
  
 Elke onderneming moet kunnen groeien en winst maken. Winst = opbrengsten
 - kosten en is belangrijk om de toekomst veilig te stellen.
+
 ### 1.2 Opdeling
+
 KMO
  
 * Gemiddeld \# werknemers \< 50
 * Jaaromzet excl. btw \< €9.000.000
 * Balanstotaal (totaal vermogen) \< €4.500.000
 * Mag geen NV, BVBA of andere vorm van kapitaalvennootschap aannemen
- 
+
 ### 1.3 Kleine en grote ondernemingen
+
 * 500.000/501.000 ondernemingen in BE = KMO’s
 * Voordelen KMO’s:
     * Mogelijkheid tot specialisatie
@@ -108,6 +111,7 @@ KMO
          
  
 #### 1.4.3 Management
+
 * Directie
     * Hoe is het directieteam samengesteld?
         * Indien teveel specialisten -> contacten met de dagelijkse realiteit
@@ -230,6 +234,7 @@ Checklist administratieve verplichtingen voor een vennootschap (\* = Ook verplic
         * VB: Verzekering Burgerlijke Aansprakelijkheid bouw, Verzekering
             tienjarige aansprakelijkheid,...
 #### 1.5.4 Het financieel plan
+
 * Opstellen ondernemingsplan
     * Commercieel plan: studie potentiële klanten, eigen product,
         concurrenten,...
@@ -247,16 +252,19 @@ Checklist administratieve verplichtingen voor een vennootschap (\* = Ook verplic
 Dus: het financieel plan is een verantwoording van de grootte van het stichtingskapitaal in relatie tot de geplande ondernemingsactiviteite nvoor de 1e 2 boekjaren.
 
 ### 1.5.4.1 Investeringsbegroting
+
 * Overzicht van de benodigde activa
 * Belangrijk: waarde activa noteren, want: financiëring nodig
 * Dus: geeft een raming weer van de financieringsbehoeften voor de activa
  
 ### 1.5.4.2 Exploitatiebegroting
+
 * Omvat een raming van de exploitatie in-/uitgaven (opbrengsten &
     kosten)
 * Hieruit blijkt of de onderneming leefbaar zal zijn
  
 ### 1.5.4.3 Financieringsplan
+
 * Materiële vaste activa & realiseerbare vlottende activa: in nature
     ingebdracht of aangekocht met financiële middelen
 * Inbreng in geld: moet gestort worden op een geblokkeerde rekening
@@ -279,6 +287,7 @@ Dus: het financieel plan is een verantwoording van de grootte van het stichtings
 Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden van een groep mensen zodanig te beïnvloeden dat op efficiënte wijze het gemeenschappelijke doel wordt bereikt”
 
 #### 2.1.1 Beheer, strategie en toevallig gedrag
+
 * Beheer = het routinematig (doen) uitvoeren van bepaalde taken
 * Gekende situaties geven aanleiding tot gekende gedragingen
 * Nieuwe situaties waarop wij geen antwoord kennen die herhaald worden
@@ -301,6 +310,7 @@ Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden v
     activiteiten beantwoorden
  
 #### 2.1.3 Management
+
 * Strategie = basis/kern voor het management
 * Nieuwe situaties, veranderingen binnen/buiten de onderneming, en de
     reacties hierop, die het gebeuren in & het succes van de onderneming
@@ -311,6 +321,7 @@ Management = “menselijke activiteiten die erop gericht zijn de werkzaamheden v
 Relatie management - beheer - beleid - strategie
  
 ### 2.2 Management en haar beleidsvorming
+
 * Elke onderneming wordt opgericht met een bepaald doel
 * Topmanagement bepaalt de basisdoelstellingen
 * Het beleid (=management) = het geheel van regels, denkbeelden,
@@ -327,6 +338,7 @@ Relatie management - beheer - beleid - strategie
 ￼![image.png](images/image.png)
  
 ### 2.4 De leiding in een onderneming
+
 * Arbeidsverdeling: de verschillende mensen moeten samenwerken
 * Goede leiding:
     * Prestaties ondergeschikten samenbrengen -> hoogst mogelijke niveau
@@ -337,6 +349,7 @@ Relatie management - beheer - beleid - strategie
     * Gezag
 
 #### 2.4.1 Soorten gezag
+
 * Formeel
     * Hiërarchisch vermogen van een persoon om opdrachten te geven aan
         ondergeschikten
@@ -348,6 +361,7 @@ Relatie management - beheer - beleid - strategie
 Ideaal: formele leider die ook een informele leider is
  
 #### 2.4.2 Leiderschapsstijlen
+
 * Autoritair vs democratisch
     * Autoritaire leider
         * “C’est moi, le chef”
@@ -411,6 +425,7 @@ Ideaal: formele leider die ook een informele leider is
 * Hoe & wanneer controleren?
  
 ##### 2.4.3.3 Participatie
+
 * Bij democratische gezagsvoering: ondergeschikten participeren in
     hogere besluitvorming
 * Belangrijke vragen:
@@ -419,6 +434,7 @@ Ideaal: formele leider die ook een informele leider is
     * Kan dit wel binnen de eigen bedrijfscultuur?
 
 ### 2.4.3.4 Controle
+
 * Grote ondernemingen: afzonderlijke afdeling “Interne controle”
     * Opdrachten juist uitgevoerd?
     * Binnen de bevoegdheden gehandeld?
@@ -437,6 +453,7 @@ Ideaal: formele leider die ook een informele leider is
     aarde + grootte van de onderneming
  
 ### 2.4.3.5 Arbeidsmotivatie
+
 * Materiële middelen
     * Inkomen werknemer
     * Sociale voordelen werknemer
@@ -478,6 +495,7 @@ Ideaal: formele leider die ook een informele leider is
     * Vertaling van de middellange termijnplanning
      
 #### 2.5.3 Eisen (van een plan)
+
 * Onderzoek naar de ontwikkelingen in de toekomst
 * Plan moet gekwantificeerd aangeven wat er gedaan moet worden
     * VB: aantal benodigde machines & machinetijd
@@ -496,6 +514,7 @@ Ideaal: formele leider die ook een informele leider is
 ![image-2.png](images/image-2.png)
  
 #### 2.5.5 Bedrijfsbeleid & nood aan planning
+
 * Confrontatie met complexere acties/situaties in het bedrijfsleven
     * Technologische evolutie
     * Veranderingen in sociale & fiscale politiek
@@ -514,6 +533,7 @@ Ideaal: formele leider die ook een informele leider is
 Een budget is een plan op korte termijn dat in cijfers wordt uitgedrukt
 
 #### 2.6.1 Definitie
+
 * Budgettering is een vorm van bedrijfsbeleid en
     ondernemingsorganisatie...
     * Gesteund op planmatig toezicht van de activiteiten
@@ -548,6 +568,7 @@ Een budget is een plan op korte termijn dat in cijfers wordt uitgedrukt
         budgetten aanpassen
 
 ### 2.7 Het besluitvormingsproces
+
 * Fase 1: Doelstellingen expliciteren
     * Onderscheid maken tussen belangen op korte \<-\> lange termijn
     * Duidelijk aflijnen must-haves en want-to-haves
@@ -590,6 +611,7 @@ zijn hiërarchische oversten zijn, wie verantwoordelijk is voor welke
 taken ...
 
 #### 2.8.1 De belangrijkste functies in de onderneming
+
 * Hoofdfuncties
     * Verkoopfunctie
     * Aankoopbeleid
@@ -601,6 +623,7 @@ taken ...
     * Personeelsfunctie
  
 #### 2.8.2 Organisatiestelsels
+
 * Lijnorganisatie
     * Hiërarchische gezagsverhoudingen staan voorop
     * Weinig specialisatie, weinig arbeidsverdeling, eenheid van gezag &
@@ -776,6 +799,7 @@ Wat volgt zijn enkele belangrijke factoren om rekening mee te houden bij een inv
 | bedrijfskapitaal          |                       |                       |
 
 #### 4.3.2 Toekomstige investeringsontvangsten- & kosten
+
 * Belangrijk: fysiek karakter van geld -> cash-flows in rekening
     brengen
 * Kosten/opbrengsten die geen geldstromen teweeg brengen worden niet
@@ -790,11 +814,13 @@ Wat volgt zijn enkele belangrijke factoren om rekening mee te houden bij een inv
     * Winsttoename na belastingen = meerontvangsten - meerkosten
 
 #### 4.3.3 Levensduur van de investeringsgoederen
+
 * Vooraf moet men de gebruiksduur schatten
 * Indien niet met zekerheid: rendabiliteit project onderzoeken onder
     verschillende hypotheses qua levensduur
 
 #### 4.3.4 Vooropgestelde rendementsgraad
+
 * Een investering wordt pas uitgevoerd als er een vooraf bepaald
     rendement bereikt wordt
 * Dit rendement wordt opgesteld adhv de bedrijfscultuur & de
@@ -808,6 +834,7 @@ zijn om de uitgaven van vandaag te rechtvaardigen, rekening houdend met
 het ondernemingsrisico
  
 #### 4.4.1 Methode van de gecumuleerde uitgaven & opbrengsten
+
 * Wat?
     * Alle uitgaven & opbrengsten(/besparingen) optellen
     * Indien positief saldo: zinvolle invesrtering
@@ -823,6 +850,7 @@ het ondernemingsrisico
     * Conclusie: te simplistisch & van te weinig waarde
  
 #### 4.4.2 Terugverdientijdmethode
+
 * Wat?
     * Terugverdientijd = de tijd die nodig is om het geïnvesteerde
         kapitaal terug te winnen met de cash flows
@@ -845,6 +873,7 @@ het ondernemingsrisico
             * Oplossing: waarde kasstromen actualiseren
  
 #### 4.4.3 Methode van het investeringsrendement
+
 * Definitie - formule
     * ROI = gemiddelde winst na belastingen / Investeringsbedrag
     * VB: investering = € 500, winst na belasting = €48: ROI = 48 / 500 =
@@ -858,6 +887,7 @@ het ondernemingsrisico
         * Houdt geen rekening met de tijdwaarde van geld
      
 #### 4.4.x De tijdswaarde van geld
+
 * De actuele/huidige waarde van € 1.000 volgend jaar is hoger dan die
     van € 1.000 verspreid over 2 jaar
 * Wiskundige notering:
@@ -869,6 +899,7 @@ het ondernemingsrisico
     * 105 = Ko \* (1+0.05) -> Ko = Kn / (1+i)<sup>n</sup> -> Ko = € 100
 
 #### 4.4.4 Methode van de netto-actuele waarde (Net Present Value (NPV))
+
 * Wat?
     * Bij deze methode wordt wel rekening gehouden met de tijdwaarde van
         geld
@@ -905,6 +936,7 @@ het ondernemingsrisico
 ![image6.jpg](images/image6.jpg)
  
 #### 4.4.5 Methode van de interne rendementsvoet (Internal Rate of Return (IRR))
+
 * Bepaling & definitie
     * De werkelijke rendementsvoet van een investering bepalen
     * Doel: de rendementsgraad (i) bepalen waarbij de som van alle
@@ -938,6 +970,7 @@ het ondernemingsrisico
             het totale inkomen
      
 ### 4.5 Slotbeschouwingen
+
 * Andere factoren van belang bij het nemen van
     investeringsbeslissingen:
     * Hoogdringendheid
