@@ -68,7 +68,17 @@ Seppe Snoeck
 47. 	Geef de twee hoofdfuncties in een onderneming en de drie hulpfuncties.
 48. 	Bespreek de voor en nadelen van drie organisatiestelsels.
 49. 	Wat is een comitéstelsel,
-
+50. 	Wie beschikt er over financiële verantwoordelijkheid binnen een onderneming?
+51. 	Verklaar jaarrekening en balans.
+52. 	Wat wordt er beschouwd als een investering?
+53.	Geef drie hoofdredenen waarom we aan goede investeringspolitiek en een zorgvuldige investeringsanalyse moeten doen.
+54.	Verklaar zes soorten investeringen. 
+55. 	Geef de 4 determinanten van het investeringsproces.
+56. 	Uit welke 2 delen bestaat het investeringsbedrag?
+57.	Hoe wordt cash flow berekend?
+58.	Verklaar meerkosten en -ontvangsten.
+59.	Geef twee voorbeelden van disconteringsmethoden. Leg uit wat er zo speciaal is aan deze methode.
+60.	Legt ne keer de 5 investeringsanalyse methoden uit, vent. 
 
 
 ## Antwoorden
@@ -316,3 +326,4 @@ Seppe Snoeck
         * -: gevaar voor tegenstrijdige opdrachten, moeilijke taakverdeling, geen eenheid in bevelvoering
 1. Wat is een comitéstelsel?
     * Een comitéstelsel is een adviesorgaan met een welbepaalde taak die het gemeenschappelijk overleg bevordert en een betere besluitvorming stimuleert
+
