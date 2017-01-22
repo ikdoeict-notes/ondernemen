@@ -7,11 +7,11 @@ Lode Alaert heeft enkele examenvragen van vorig jaar onthouden.
     *   Beheer is het routinematig (doen) uitvoeren van bepaalde taken. Routinesituaties, dus beheerssituaties zijn echter ook ooit nieuw geweest. Het gedrag in nieuwe situaties kan nu van tweeërlei aard zijn:
         *  Strategie: men gaat zich gedragen met overleg
         *  Toevallig gedrag: men gedraagt zich weinig rationeel, oppvervlakkig, emotioneel ...
-    
+
 2. situationeel leiderschap begeleidend/ondersteunend
     * Situationeel leiderschap: opdeling waarbij men onderscheid maakt in leiderschapsstijl volgens de situatie.
     * Begeleidend: de leider blijft aanwijzingen geven en de taakuitvoering nauwgezet gecontroleerd, maar geeft daarnaast uitleg over beslissingen, vraagt om suggesties en steunt vorderingen. Stijl wordt vooral toegepast wanneer teleurstelling opstreed.
-    * Ondersteunend: De leider bevordert en ondersteunt de pogingen van ondergeschikten om hun taak uit te oefenen en deelt de verantwoordelijkheid voor de besluitvorming met hen. Deze stijl wordt toegepast wanneer de mensen aan wie de leiding wordt gegeven bekwaam zijn, maar aarzelend. Ze hebben steun nodig van de leider. 
+    * Ondersteunend: De leider bevordert en ondersteunt de pogingen van ondergeschikten om hun taak uit te oefenen en deelt de verantwoordelijkheid voor de besluitvorming met hen. Deze stijl wordt toegepast wanneer de mensen aan wie de leiding wordt gegeven bekwaam zijn, maar aarzelend. Ze hebben steun nodig van de leider.
 3. ROI (oefening)
 4. NPV (oefening)
 5. productiviteit van werknemer verhogen (prestatievermogen)
@@ -43,7 +43,7 @@ aansprakelijkheid moet het financieel plan neergelegd worden bij de notaris
     * 2de fase: Bepalen van de meest gunstige alternatieven
     * 3de fase: Het afwegen van de alternatieven
     * 4de fase: Het nemen van de beslissing
-    * 5de fase: Het uitvoeren va nde beslissing en het beïnvloeden van de resultaten van die beslissing
+    * 5de fase: Het uitvoeren van de beslissing en het beïnvloeden van de resultaten van die beslissing
 14. een bedrijf die meer dan 100K€ winst maakt is best (eenmanszaak, nv of nog een 3de)
     * BVBA: 18 550 euro kapitaal om te starten. Tov NV = 61 500 euro.
 15. hoe prestatievermogen van de arbeiders doen stijgen (opleiding, ...)
