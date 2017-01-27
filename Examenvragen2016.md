@@ -13,7 +13,7 @@ Lode Alaert heeft enkele examenvragen van vorig jaar onthouden.
     * Begeleidend: de leider blijft aanwijzingen geven en de taakuitvoering nauwgezet gecontroleerd, maar geeft daarnaast uitleg over beslissingen, vraagt om suggesties en steunt vorderingen. Stijl wordt vooral toegepast wanneer teleurstelling opstreed.
     * Ondersteunend: De leider bevordert en ondersteunt de pogingen van ondergeschikten om hun taak uit te oefenen en deelt de verantwoordelijkheid voor de besluitvorming met hen. Deze stijl wordt toegepast wanneer de mensen aan wie de leiding wordt gegeven bekwaam zijn, maar aarzelend. Ze hebben steun nodig van de leider.
 3. ROI (oefening)
-4. NPV (oefening)
+4. NPV nederlandse benaming = NAW (oefening) + IRR
 5. productiviteit van werknemer verhogen (prestatievermogen)
     * Productiviteit van werknemer verhogen wordt bepaald door tal van factoren onderverdeeld in:
         * Prestatievermogen (lichamelijke gesteldheid, geestelijk vermogen, opleiding, ervaring, leeftijd, sociale vaardigheden...)
